@@ -1,0 +1,16 @@
+"apple" : "the value is 1"
+"banana" : "the value is 2"
+
+cities:
+  -new delhi
+  -mumbai
+  -pune
+
+bio: |
+  My name is Saish Shetty
+
+# specify the type
+zero: !!int 0
+positiveNum: !!int 45
+negativeNum: !!int -45
+octalNum: !!int 06574
