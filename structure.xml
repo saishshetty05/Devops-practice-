@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<School>
+    <name>SES High School</name>
+    <principle>DR.Madan</principle>
+    <students>
+        <student>
+            <roll_no>10</roll_no>
+            <name>Saish Shetty</name>
+            <marks>89</marks>
+        </student>
+    </students>
+</School>

@@ -1,0 +1,9 @@
+School:
+  name: "SES High School"
+  principle: "DR.Madan"
+  students:
+    - roll_no: 10
+      name: "Saish Shetty"
+      marks: 89
+
+

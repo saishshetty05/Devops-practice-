@@ -1,0 +1,13 @@
+{
+    "school":{
+        "name":"SES high school",
+        "principle":"Mr.Madan"
+        "Students":[
+            {
+                "roll_no":10,
+                "name":"Saish shetty",
+                "Marks":89
+            }
+        ]
+    }
+}

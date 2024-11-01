@@ -14,3 +14,24 @@ zero: !!int 0
 positiveNum: !!int 45
 negativeNum: !!int -45
 octalNum: !!int 06574
+
+
+# !! maps
+name: Saish Shetty
+role: 
+  age:19
+  hgt:6'1
+
+# // pairs
+pairs example: pairs
+  -job:student
+  -job:techie
+
+# // dictionary as map
+people:
+  - Saish:
+      name:Saish Shetty
+      roll:10
+  - smita:
+      name:Smita Shetty
+      roll:10
